@@ -1,5 +1,7 @@
 # CookieGuard - GDPR Compliant Cookie Consent System
 
+Take a look at Live Website : https://hackgenesis-smart-consent-managemen-olive.vercel.app/
+
 A modern, responsive cookie consent management system similar to CookieYes, built with HTML, CSS, JavaScript, and Node.js.
 
 ## 🚀 Features
@@ -271,5 +273,6 @@ Visit the main page to see the cookie consent system in action:
 - Cookie banner functionality
 - Preferences modal
 - Dashboard with real-time data
+
 
 The system is designed to be production-ready and can be easily integrated into any website! 
